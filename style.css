@@ -1,0 +1,45 @@
+
+body {
+  font-family: 'Roboto', sans-serif;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Roboto', sans-serif;
+  
+}
+
+p {
+  font-family: 'Roboto', sans-serif;
+  
+}
+
+
+.navbar {
+  background-color: #f8f9fa;
+}
+
+.navbar-brand {
+  font-weight: bold;
+}
+
+.navbar-nav .nav-item {
+  margin-right: 15px;
+}
+
+.nav-item:hover{
+  background-color: yellow;
+}
+
+.sr-only{
+  color: black;
+}
+section {
+  padding: 80px 0;
+}
+
+.img-fluid {
+  max-width: 100%;
+  height: auto;
+}
+
+
